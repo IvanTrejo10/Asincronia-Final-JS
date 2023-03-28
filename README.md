@@ -1,4 +1,4 @@
-# 🐶 DWPC1 Dog Images 2023a
+# 🐈S02E06-Asincronia-en-JS-Final🐈
 Proyecto cargador de imágenes de gatos usando la api https://cataas.com/#/
 
 INSTITUTO TECNOLOGICO GUSTAVO A MADERO
